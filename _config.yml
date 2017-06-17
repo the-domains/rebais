@@ -1,0 +1,32 @@
+layout_spectrum: 0.4291398871978652
+typography_spectrum: 0.0883323046703371
+color:
+  brandStrength: 0.214900494657254
+  lightness: 0.99903010920686
+  saturation: 0.22449618944289662
+  rhythmicContrast: 0.5095162344174368
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: rebais
+content: []
+title: Rebais; le meilleur en retour d'argent
+description: >-
+  C'est extrêmement simple; vous achetez dans votre site web préféré et le site
+  "cashback" retourne à vous la commission de publicité. Le reBais C'est le
+  moyen idéal pour acheter à rabais en ligne. Idéal pour les revendeurs! Recevez
+  de 7 a 15% en retour sur TOUT vos achats en ligne. Ici je vous donne le
+  meilleur des sites a reBais. A vous de choisir...
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8859d4fc-2fbb-4f65-9798-ff7d7f3984c9.mp4
