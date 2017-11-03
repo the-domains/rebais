@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -57,3 +56,4 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b812ec96-b957-468b-b79d-eac51d0db289.gif
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e72ea541-1334-4eeb-b740-526123d8fd4e.gif
+url: 'https://thegrid.ai/get3in1sell/'
